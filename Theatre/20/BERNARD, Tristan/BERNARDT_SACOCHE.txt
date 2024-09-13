@@ -1,0 +1,136 @@
+********************************************************
+	DC.Title                  = LE PRÉTENDANT, PIÈCE EN UN ACTE
+	DC.Author                 = BERNARD, Tristan
+	DC.Creator                = FIEVRE, Paul
+	DC.Publisher              = FIEVRE, Paul
+	DC.Subject                = Pièce
+	DC.Subject.Classification = 842
+	DC.Description            = Edition du texte cité en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = 
+	DC.Date.Issued content    = 
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 01/12/2021 à 07:14:40.
+	DC.Coverage               = France
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/documents/BERNARDT_SACOCHE.xml
+	DC.Source                 = https://gallica.bnf.fr/ark:/12148/bpt6k9795676r
+	DC.Source.cote            = 
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Théâtre Classique, (creative commons CC BY-NC-ND)
+***************************************************************
+
+LA SACOCHE
+PIÈCE EN UN ACTE
+1930.
+de Tristan Bernard.
+ÉTABLISSEMENTS BUSSON IMPRIMEURS, 117 rue des Poisonniers, PARIS (18°)Achevé d'imprimer le 20 SEPTEMBRE 1930 par les ÉTABLISSEMENTS BUSSON.
+
+
+
+PERSONNAGES
+ÉMILE, garçon de banque.
+ADRIEN, cambrioleur.
+UN COMPLICE.
+LE CHEF DES AGENTS.
+AGENTS.
+
+
+Extrait de l'ouvrage "Théâtre sans directeur" Paris, Albin Michel, 1930, pp. 105-112
+
+
+			LA SACOCHE
+
+Sur une berge de la Seine, entre Asnières et Saint-Denis. Fin de jour.
+
+
+				
+				
+				
+				
+							ÉMILE, en uniforme de garçon de banque.
+							Si j'ai la mine déconfite,C'est pour d'assez graves raisons :J'arrive à l'instant de Maisons...Pas de Maisons-Alfort, mais de Maisons-Laffitte...... Pour fuir un avenir, hélas! plein de noirceur,
+									Je suis venu tout droit au bord de ces eaux mornes.Car, bien que de métier on soit un encaisseur,Le pouvoir d'encaisser a quelquefois des bornes!Me voici ruiné sans espoir, et failli!Et pour qui, Dieu puissant? Pour une cuisinière
+									Qui m'affolait d'amour la semaine dernière,Et dont le jeune fils est lad à Chantilly...Connaissant- prétend-il - leurs coups qu'ils font sousL'indésirable compagnon [roche,M'a dit d'aventurer le fond de ma sacoche
+									Sur un pâle outsider dont je maudis le nom...Quittons l'existence traîtresse...		Il s'avance jusqu'à la berge.Je tombe de sommeil autant que de détresse...		Songeur.Mais sur les sombres bords trouve-t-on le repos ?Le repos éternel, est-ce un bobard de l'homme ?
+									Je crois qu'il est prudent de faire un petit somme,Afin à tout hasard d'être au moins plus dispos...		Reculant jusqu'à un remblai.Un sort bénin a garni d'herbe tendreLe doux versant de ce talus,Où sans tarder je vais m'étendre...
+									Puis, sitôt réveillé, j'irai, sans plus attendre,Dans la direction des infernaux palus...		Il s'étend et s'endort d'un sommeil profond.
+							ADRIEN, entrant en scène, un portefeuille à la main.
+							L'audace des bandits est vraiment sans limite !En quel temps vivons-nous ? La police est un mythe !À quatre heures dix, en plein jour,
+									Mon pote et moi, dans le plus bruyant carrefour,Nous avons mis à sac une bijouterie...Aussi tranquillement qu'on prend des numérosD'autobus... Et pourtant, croyez-moi, je vous prie,Je suis un être simple, et n'ai rien d'un héros...
+											Il médite.Le bijoutier, couvert par la forte assurance,Considère sa perte avec indifférence...La Compagnie... y voit une publicitéParfaite et des plus légitimes,Grâce à quoi son papier déjà très haut coté,
+									Atteindra de plus hautes cimes...Quant à mon brave recéleur,Qui m'a pris ces bijoux au tiers de leur valeur,Sa joie était vraiment touchante...Enfin moi, je m'en trouve bien,
+									Car l'affaire reste excellente,Vu la modicité de mon prix de revient...		Il se dirige vers le talus, et aperçoit Emile qui continue à dormir lourdement.Que vois-je ? Un encaisseur ?		Avec attendrissement.Dormeur plein d'innocence,Que ton destin narquois sur ma route a conduit !Décidément la Providence
+									Me gâte en ce jour d'aujourdhui...Voyons cette sacoche... Hé ! Le diable m'emporte !Elle est vide ! Ceci me semble assez vexant...Vraiment la concurrence est forte,Et je ne croyais pas cet endroit si passant.
+									... Déception ! Tant pis !		On entend un bruit de pas.Qui vient là ?... Mon complice ?Il a l'air agité...
+							LE COMPLICE.
+							Pet ! pet ! C'est la police !Il en vient par la gauche et par la droite aussi !...Pas moyen de filer d'ici...
+							ADRIEN.
+							C'est bien pour nous ?
+							LE COMPLICE.
+							Pour nous ou pour d'autres personnes,
+									Ce n'est jamais, crois-moi, des rencontres fort bonnes...Surtout quand on n'a pas un casier des plus blancs...
+							ADRIEN, hochant la tête.
+							Et puis, ce dormeur imbécile,- Pour peu que ces vieux flics aient le soupçon facile -Pourrait leur inspirer des pronostics troublants...
+									Il est des cas où le sacrifice s'impose...Il faut faire la part du feu,Et que dans la sacoche on trouve quelque chose...		Il prend des billets dans une grosse liasse.Dix billets sur cent vingt 		Avec un soupir.C'est beaucoup... 		Sagement.Et c'est peu...		Il garnit rapidement la sacoche d'Emile.
+							LE COMPLICE, bas.
+							Les flics !
+							ADRIEN, allant au-devant des hommes de police.
+							Ah ! C'est le Ciel, messieurs, qui vous envoie !
+									Nous avons découvert sur le bord de la voieCet homme qui dormait...
+							LE CHEF, sentencieux.
+							Avec un verre en tropProbablement... Quel est ce drôle de pierrot ?Si l'on était méchant, un rapport à la Banque...Et nous ferions sacquer ce garçon à la manque...
+									Mais regardons... Sans doute on l'aura détroussé.		Il visite la sacoche.Non ! voici 		Il compte.dix billets... Ils n'auraient rien laissé.
+							ADRIEN, déférent.
+							Vous n'avez plus besoin de nous, messieurs ? C'est l'heureOù l' on commence à s'affamer.La soupe et la patronne, en notre humble demeure,
+									Toutes deux à l'envi sont en train de fumer...
+							LE CHEF.
+							Allez...		Adrien et son pote ne se le font pas dire deux fois.
+							LE CHEF, réveillant le dormeur.
+							Que fais-tu là ?		Emile le regarde éberlué.Ton nom ?
+							ÉMILE, balbutiant.
+							Durand, Emile...
+							LE CHEF.
+							Alors quoi ? C'est une façonDe venir roupiller par ici, mon garçon ?Avec ton maroquin plein de billets de mille !
+									
+							ÉMILE.
+							Hélas, ils n'y sont plus !
+							LE CHEF.
+							Comment ? Ils n'y sont plus ?Je viens d'en compter dix, sans que tu te réveilles !
+							ÉMILE, comptant à son tour.
+							Huit... neuf... dix... Dix billets ! Merveille des merveilles !		À part.Je n'en avais que sept !		Il est resté assis sur le remblai.
+							LE CHEF.
+							Tu tiens à ce talus ?Je dois te prévenir que la route est peu sûre.
+									
+							ÉMILE.
+							Je vais rentrer chez moi.
+							LE CHEF.
+							Sois très heureux, mon fieu,Qu'on étouffe ton aventure.
+							ÉMILE.
+							Merci, messieurs. Bonsoir !
+							LE CHEF.
+							Bonsoir !
+							ÉMILE, au public.
+							Je crois en Dieu...		STANCES
+
+	Le Seigneur est trop bon pour notre humaine engeance...
+	Si je me plaignais, j'aurais tort...
+	Mais je pense à part moi que, dans son indulgence,
+	Il va cette fois un peu fort...
+
+
+	Cependant ses desseins sont assez pénétrables
+	Pour qui s'astreint à réfléchir :
+	Il veut, en nous tendant des mains trop secourables,
+	Nous avoir par le repentir...
+
+
+	J'ai bu la Vérité de la divine source....
+	Et je jure, animé d'esprits tout différents,
+	De jouer désormais au plus cent sous par course,
+	... Sauf le jour du Grand Prix où je mettrai dix francs.
+
+
+									
+	==================================================

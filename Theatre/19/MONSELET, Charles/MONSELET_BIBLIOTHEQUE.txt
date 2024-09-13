@@ -1,0 +1,811 @@
+********************************************************
+	DC.Title                  = LA BIBLIOTHÈQUE.
+	DC.Author                 = MONSELET, Charles
+	DC.Creator                = FIEVRE, Paul
+	DC.Publisher              = FIEVRE, Paul
+	DC.Subject                = Comédie
+	DC.Subject.Classification = 842
+	DC.Description            = Edition du texte cité en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = 
+	DC.Date.Issued content    = 
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 13/07/2023 à 14:12:49.
+	DC.Coverage               = France
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/documents/MONSELET_BIBLIOTHEQUE.xml
+	DC.Source                 = http://gallica.bnf.fr/ark:/12148/bpt6k208359n
+	DC.Source.cote            = 
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Théâtre Classique, (creative commons CC BY-NC-ND)
+***************************************************************
+
+LA BIBLIOTHÈQUE
+1859. Traduction et reproduction réservés.
+M. CHARLES MONSELET
+PARIS, POULET MALASSIS ET DE BROISE, LIBRAIRES ÉDITEURS, 9 rue des Beaux-Arts
+
+
+
+PERSONNAGE.
+MONSIEUR DE BACHAUMONT.
+RIVAROL.
+CHAMFORT.
+BEAUMARCHAIS.
+CINQ OU SIX RATS.
+UN LIVRE.
+MADEMOISELLE DE LESPINASSE.
+D'ALEMBERT.
+CHOEUR GÉNÉRAL.
+CHOEUR DE SATIRIQUES.
+CHOEUR DE PRÉCIEUSES.
+CHOEUR DE CONTEURS.
+CHOEUR D'HISTORIENS.
+DORAT.
+MADAME DE SÉVIGNÉ.
+LE MARQUIS DE BIÈVRE.
+ANDRIEUX.
+LUCE DE LANCIVAL.
+ALFIERI.
+LE DICTIONNAIRE DE LA CONVERSATION.
+VOIX DE L'ENFER.
+RABELAIS.
+GRIMM.
+LA HARPE.
+BRILLAT SAVARIN.
+STENDHAL.
+MADEMOISELLE AISSÉ.
+SAINTE BEUVE.
+MADAME DE GENLIS.
+MONSIEUR DE MONTLOSIER.
+CHATEAUBRIAND.
+PAUL LOUIS COURIER.
+BENJAMIN CONSTANT.
+MADAME DE STAËL.
+YOUNG.
+NOVERRE.
+MONSIEUR DE LA BORDE.
+SAPHO.
+MADEMOISELLE ***.
+DIDEROT.
+UN LIVRE ÉLOIGNÉ.
+DUMERSAN.
+LE LIVRE.
+DUMARSAN.
+BRAZIER.
+SAUVAL.
+SAINT FOIX.
+MERCIER.
+DULAURE.
+MARMONTEL.
+MADAME DE KRUDNER.
+MISS INCHBALD.
+GRÉCOURT.
+BALZAC.
+JOSEPH DE MAISTRE.
+FONTENELLE.
+LE CLAIRON.
+SOPHIE ARNOULD.
+CHAMPCENETZ.
+CHEVRIER.
+MÉTRA.
+STERNE.
+BERQUIN.
+FLORIAN.
+NODIER.
+MADEMOISELLE DE SCUDÉRY.
+CAYLUS.
+EDOUARD OURLIAC.
+MONSIEUR DE JOUY.
+EUGÈNE BRIFFAUT.
+CHOEUR DE RATS.
+MONSIEUR BAUDEMENT.
+LE PARTICULIER.
+LE MONSIEUR SOURIANT.
+MONSIEUR DE MANNE.
+MONSIEUR RICHARD.
+MONSIEUR PILLON.
+KASANGIAN.
+LE VIEUX MONSIEUR.
+LE LECTEUR INSOUCIANT.
+LE CONSERVATEUR.
+LE LECTEUR.
+LE FROTTEUR.
+PREMIER LECTEUR.
+SECOND LECTEUR.
+MONSIEUR PAULIN PARIS.
+MONSIEUR JOMARD.
+MONSIEUR REYNAUD.
+MONSIEUR LENORMANT.
+MONSIEUR BERGER DE XIVREY.
+LES CONSERVATEURS.
+MONSIEUR DE PONGERVILLE.
+MONSIEUR HAAZE.
+MONSIEUR LACABANE.
+MONSIEUR NATALIS DE WAILLY.
+MONSIEUR MAGNIN.
+MONSIEUR RAVENEL.
+LE RAPPORTEUR.
+
+
+Texte extrait de l'ouvrage LES TRÉTEAUX de Charles Monselet avec un frontispice dessiné et gravé par Bracquemond, pp. 35-86.
+[Le découpage des scènes est propre à cette édition]
+
+
+			LA BIBLIOTHÈQUE EN VACANCES
+
+
+
+				
+				I.
+				
+				La grande salle de lecture de la Bibliothèque, rue Richelieu. On entend un bruit de portes. Les gardiens sortent. Au dehors, on lit sur un écriteau : - LA BIBLIOTHÈQUE SERA FERMÉE DU 1er AU 30 SEPTEMBRE.
+
+							MONSIEUR DE BACHAUMONT, descendant, le premier, de son rayon.
+							[Note : Sans doute, Louis Petit de Bachaumont (1690-1771), on l'a longtemps considéré comme l'auteur de Mémoires secrets.]Ouf ! Les voilà partis ! Ont-ils assez, depuis un an, déchiré mes feuilles et compromis mes dentelles ! Quelle rage de chroniques et de nouvelles à la main les a donc saisis ? Il ne me reste plus à présent une seule anecdote, un seul quatrain ; ils m'ont tout dérobé ; je suis à sec.
+							RIVAROL.
+							[Note : Antoine de Rivarol (1753-1801), écrivain royaliste sous la Révolution, on lui doit une Petit Almanach des grands Hommes.]Et moi donc !
+							CHAMFORT.
+							[Note : Sébastien-Roch Nicolas de Chamfort (1741-1794), académicien, poète et auteur de comédies.]Et moi !
+							BEAUMARCHAIS.
+							Et moi ! Il y a de l'écho ici.
+							CINQ OU SIX RATS, s'aventurant.
+							Est-il certain, mes frères, qu'on ait vu s'éloigner Monsieur Édouard Fournier ? Se pourrait-il qu'il ne vînt plus nous déranger pendant un mois ? Hélas ! J'ai bien peur qu'une telle félicité ne nous soit pas permise ! Vous ne le connaissez pas autant que moi, ce vilain homme : il est capable de se procurer une clef ou de s'introduire ici nuitamment par les vasistas. Redoutez tout de Monsieur Edouard Fournier ! L'autre jour, ne s'est-il pas avisé de me surprendre derrière une collection de la Minerve, où j'avais cependant tout lieu de me croire en sûreté.
+							UN LIVRE, appelant.
+							Pssst !
+							MADEMOISELLE DE LESPINASSE.
+							[Note : Julie de Lespinasse (1732-1773), amie de D'Alembert, épistolière de renom et animatrice d'un salon littéraire rue de Bellechasse.]Que me voulez-vous, d'Alembert ?
+							D'ALEMBERT.
+							Monsieur Ravenel est-il là ?
+							MADEMOISELLE DE LESPINASSE.
+							Non ; Monsieur Magnin non plus ; vous pouvez descendre, nous sommes en vacances !
+							CHOEUR GÉNÉRAL en toutes les langues. 
+							[Note : Michel, Francisque (1809-1887) : philologue spécialiste des ouvrages médiévaux.]En vacances ! Dites-vous vrai ? En vacances ! Nous voilà débarrassés de cette cohue de lecteurs importuns, fatigants, irrespectueux. Le ciel en soit loué ! Nous ne verrons plus Francisque Michel, le touche-à-tout !
+							CHOEUR DE TROUVÈRES.
+							[Note : Héricault, Charles d' (1823-1899) : historien et éditeur des poètes médiévaux ou de la Renaissance.]Ni d'Héricault, aimé des belles !
+							CHOEUR DE SATIRIQUES.
+							[Note : Verjus : Suc acide, tiré des raisins qui ne sont pas encore mûrs, et qui est employé comme assaisonnement. [L]][Note : Montaiglon, Anatole de Courde de (1824-1895) : Chartiste et bibliothécaire, on lui doit un recueil des poésies françaises du XVème et XVIème siècle en 13 tomes.]Ni Anatole de Montaiglon, qui a le piquant du verjus !
+							CHOEUR DE PRÉCIEUSES.
+							[Note : Livet, Eugène (1820-1913) : Enseignant, créateur de l'enseignement technique en France.[L]]Ni le grand Livet !
+							CHOEUR DE CONTEURS.
+							Ni le petit Boiteau !
+							CHOEUR D'HISTORIENS.
+							[Note : Jettatore : mot italien, jeteur de sort.]Ni Romey le jettatore !
+							CHOEUR DE POLYGRAPHES.
+							Ni Lalanne, l'écuyer !
+							DORAT, couvert d'une de ces magnifiques reliures dites à la Fanfare, ornements à petits fers, doublé en maroquin rouge, tranche dorée.
+							Pouah ! J'ai passé une saison entière sous les grosses lunettes d'écaille et sous les coudes graisseux d'un animal incompréhensible. Il venait régulièrement à dix heures, me demandait et ne me rendait plus qu'à une heure. Que pouvais-je avoir de commun avec ce cuistre ? En quoi devaient l'intéresser mes Baisers et mes Cerises ? Un jour, je me penchai sur son travail : il écrivait très fin et très vite sur du papier timbré. C'était un clerc de quelque étude sans feu, à qui je servais de contenance pendant qu'il expédiait ses barbouillages. Ô honte ! Ô punition !
+							MADAME DE SÉVIGNÉ.
+							Moi, j'avais un jeune galant que je regrette. Il me lisait avec des sourires et des soupirs. Ce devait être quelque cadet de famille, adorant le beau temps du menuet royal et des ruelles. Ah ! Si j'avais pu lui répondre !
+							LE MARQUIS DE BIÈVRE.
+							[Note : Le Marquis de Bièvre (1747-1789) est un auteur facétieux qui poussa la calembour au delà du raisonnable comme dans sa tragédie Vercingétorixe.]Vous ? Votre coeur a toujours habité le château des Rochers.
+							MADAME DE SÉVIGNÉ.
+							Impertinent !
+							ANDRIEUX.
+							[Note : Peut être François-Guillaume-Jean-Stanislas Andrieux (1759-1833), académicien, poète et auteur dramatique.]On m'a bien peu lu cette année...
+							LUCE DE LANCIVAL.
+							 Monsieur Latour de Saint-Ybars m'a consulté deux fois ; c'est un heureux symptôme. Les belles-lettres vont refleurir.
+							ALFIERI.
+							[Note : Alfiéri, Vittorio (1749-1803), auteur dramatique italien, francophile jusqu'à la Terreur, il composa 23 tragédies d'inspiration de la Rome antique et de l'Antiquité grecque. ] On joue mes comédies en France. Tout va bien.
+							LE DICTIONNAIRE DE LA CONVERSATION.
+							[Note : "Le Jeune mari", comédie en trois actes et en prose de M. Mazères.][Note : Emilie Leverd est le 221ème comédienne de la Comédie Française, entrée en, 1808 et retraitée en 1832.]Comment feront maintenant les feuilletonistes pour rédiger leurs comptes-rendus de théâtres ? Où iront-ils chercher la date de la première représentation du Jeune Mari, et l'époque précise de la retraite de Mademoiselle Émilie Leverd ?
+							VOIX DE L'ENFER. 
+									L'Enfer est cette partie de la Bibliothèque qui contient les auteurs licencieux.Ouvrez-nous les portes ! Ouvrez-nous ! Nous voulons aller passer nos vacances chez la Fillion, chez la Pâris, chez la Massé ! Holà ! Qu'on nous serve des coulis, des pastilles, des truffes, des diabolini, des liqueurs des îles, et qu'on nous ramène dans le boudoir d'Eliante-Cottyto !
+							RABELAIS.
+							[Note : Rabelais, François (1484 ou 94-1553) est un médecin et romancier français burlesque qui écrivit Pantagruel, Gargantua, le Tiers Livre, le Quart Livre, L'Ile sonnante.]Bon ! Voici le dégel des paroles qui commence.
+							GRIMM. 
+							Du nouveau ! Quelqu'un sait-il du nouveau ! Y a-t-il ici quelque gazetier fraîchement arrivé ? Je le paierai mon pesant d'or. J'ai soif d'aventures et faim de bons mots.
+							LA HARPE.
+							Approchons-nous de ces groupes, Monsieur le Baron.
+							BRILLAT-SAVARIN, à Stendhal.
+							[Note : Brillat-Savarin, Jean Atnhelme (1755-1826), avocat de métier, gastonome et auteur de "La Physiologie du goût" qui passa à la posétérité. ]Vous le mettez dans la poêle deux minutes à peine, en ayant le soin d'y jeter quelques rondelles de citron. C'est un plat délicieux.
+							STENDHAL. 
+							[Note : Stendhal et Mérimée étaient amis. Mérimée écrivit un petit opuscule "H.B." initiales d'Henri Beyle, nom véritable de Stendhal.]Je vous crois ; Mérimée doit le connaître.
+							MADEMOISELLE AISSÉ, s'éveillant.
+							[Note : Mademoiselle Aissé, pseudonyme de Charlotte-Élisabeth Aïcha (1693-1733), épistolière.]Laissez-moi, non, Sainte-Beuve, non ; je ne le veux pas ! Je ne veux pas être réimprimée !
+							SAINTE-BEUVE.
+							[Note : Sainte Beuve, Charles-Augsutin,(1804-1869), académicien et critique littéraire renommé.]Rien qu'une préface !
+							MADEMOISELLE AISSÉ.
+							Non... Ah ! Mon Dieu, je rêvais.
+							MADAME DE GENLIS, à Madame Cottin.
+							[Note : Comtesse de Genlis, né Stéphanie Félicité du Crest de Saint-Aubin (1746-1830), auteur de nombreux ouvrages dont "Théâtre à l'usage des jeunes personnes".]Oui, ma chère, des cages en acier. C'est une fureur.
+							MONSIEUR DE MONTLOSIER, s'adressant à Chateaubriand.
+							[Note : Michel Guizot (1787-1874) académicien, homme politique et historien. "Mémoires pour servir à l'histoire de mon temps", sont parus 1858 et 1867, en 8 volumes.]Quand paraissent les Mémoires de Monsieur Guizot ?
+							CHATEAUBRIAND.
+							J'ai vu passer l'autre jour le libraire Didier dans la salle de la Réserve ; il affirmait pouvoir mettre eu vente le premier volume au commencement du mois de novembre.
+							MONSIEUR DE MONTLOSIER.
+							Et ceux de Monsieur Dupin ? La suite ?
+							CHATEAUBRIAND. 
+							On le dit un peu découragé.
+							PAUL-LOUIS COURIER.
+							[Note : Le Testament de [Sophie] Rostopchin, alias Comtesse de Ségur, est au minutier des Archives Nationales.]Ah ! Tous vos Mémoires ! Relisez donc le Testament de Rostopchin, en vingt-cinq lignes !
+							BENJAMIN CONSTANT, frappant au rayon de Madame de Staël.
+							[Note : Constant, Benjamin (1767-1830), essayiste et romancier et homme politique.]Toc ! Toc ! Êtes-vous là ?
+							MADAME DE STAËL.
+							[Note : Anne Louis Germaine Necker, Baronne de Staël (1766-1817), femme de Lettres et polygraphe sont quelques pièces de théâtre, son oeuvre la plus connues est "De l'Allemagne".]Non ; je suis à la reliure.
+							BENJAMIN CONSTANT.
+							[Note : Henriette Coligny de la Suze (1618-1673), petite fille de l'Amiral de Coligny et convertie avec pompes au catholicisme en 1653. Ses poèmes furent éditées en 1666 chez Sercy.]C'est ce qu'elles disent toutes, depuis quelque temps : c'est insupportable. Vous verrez que je serai forcé d'aller frapper chez Madame de la Suze.
+							YOUNG. 
+							Je m'embête.
+							NOVERRE, à Monsieur de la Borde. 
+							L'Opéra ? Les arts imitateurs ?
+							MONSIEUR DE LA BORDE.
+							Toujours la Ferraris, mon pauvre Noverre !
+							NOVERRE.
+							[Note : Gargouillade :  Nom d'un pas de danse dans le genre du pas tortillé, qui n'est plus en usage. [L]][Note : Jean-Georges Noverre (1727-1810), danseur et théoricien de la danse.]Des gargouillades !
+							SAPHO, à Mademoiselle ***.
+									(L'éditeur refuse d'imprimer le nom)Oui, mon ange, on a saisi les Fleurs du Mal, de Baudelaire.
+							MADEMOISELLE ***.
+							Est-ce possible ?
+							SAPHO.
+							Et sais-tu le nom du substitut qui...
+							DIDEROT, rongeant ses poings.
+							[Note : Denis Diderot (1713-1784) philosophe, romancier et auteur de pièces de théâtre ainsi que des écrits sur la peinture.]Oh ! Ne pouvoir sortir pour aller au Salon ! Deux personnes en causaient auprès de moi, il y a quinze jours ; ils disaient les noms des nouveaux et des célèbres : Daubigny, Gérôme, Duveau, Baudry ! Que devient la peinture sensible ? Greuze et Chardin ont-ils laissé une postérité ?
+							UN LIVRE ÉLOIGNÉ.
+							J'étouffe !
+							DUMERSAN.
+							Il me semble connaître cette voix.
+							LE LIVRE.
+							[Note : Nicolas Brazier (1783-1838), chansonnier et auteur de deux pièces de théâtre en société.]Hélas ! Ami Dumersan, c'est moi, Brazier, ton infortuné compère.
+							DUMARSAN.
+							Où diable es-tu !
+							BRAZIER.
+							Au fond du tiroir de Monsieur de Manne, le conservateur adjoint. Sous le prétexte qu'il travaille lui aussi à une histoire de petits théâtres, il ne veut me prêter à personne et me tient enfermé depuis trois ans. 
+							DUMARSAN.
+							Eh ! Mon pauvre ami, je te plains de tout mon coeur ; mais je ne puis te délivrer.
+							BRAZIER.
+							Tâche de crocheter la serrure.
+							DUMARSAN.
+							Je n'ai jamais appris.
+							BRAZIER.
+							Hélas !
+							DUMARSAN.
+							Il me pousse une idée, cependant ?
+							BRAZIER.
+							Voyons.
+							DUMARSAN.
+							[Note : Probable, Jacques Vaucanson (1709-1782), constructeur d'automates.]Je vais chercher Vaucanson. Il est justement dans la salle du Zodiaque.
+							SAUVAL, allant à une fenêtre.
+							Ah ! Messieurs, comme on démolit à Paris !
+							SAINT-FOIX.
+							[Note : Saint-Foix, Germain-François Poullain de (1698-1776), mousquetaire puis auteur de nombreuses comédies.]Voilà mes Essais à refaire !
+							MERCIER.
+							[Note : Edmond Texier (1815-1887), poète, romancier et journaliste célèbre.]Et moi, mon Tableau. J'en parlerai à Edmond Texier.
+							DULAURE.
+							[Note : Hôtel de Soubise se situe au 60 rue des Francs-Bourgeois sans le 4ème arr. de Paris, il contient les Archives Nationales. ]Voyez-vous tout là-bas cette poussière qui s'envole de la rue de l'Arcade ? C'est l'hôtel du prince de Soubise qu'on abat. Un palais qui avait la grâce et le mystère d'une petite maison ! Les jolies colonnes ! Les beaux marbres de couleur ! Les riantes mythologies du plafond !
+							MARMONTEL.
+							[Note : Marmontel, Jean-François (1723-1799), auteur très célèbre de son vivant. Il écrivit de nombreuses pièces de théâtre.][Note : Marie-Madelaine Guimard (1743-1816), danseuse, très en vue, elle attira à elle beaucoup d'hommes forts riches et des auteurs comme Collé et Carmontelle.]Je me souviens d'y avoir dîné avec Mademoiselle Guimard.
+							MADAME DE KRUDNER.
+							[Note : Beate Barbara Juliane von Kruedener (1764-1824), luthérienne allemande, auteur de langue française liée à Chateaubriand.]Mais on en raconte mille horreurs, de votre prince. N'est-ce pas lui qui avait dans son cabinet un fauteuil mécanique ?...
+							MISS INCHBALD, la poussant du coude.
+							[Note : Elizabeth Inchbald (1753-1821), commença comme comédienne puis devint romancière et auteur de plus de 25 pièces dont certaines furent traduites en français. ]Taisez-vous donc, ma belle !
+							GRÉCOURT.
+							Mesdames, si vous le permettez, je peux vous fournir des renseignements précis à ce sujet.		Les deux femmes s'enfuient.
+							BALZAC, affairé.
+							Savez-vous ce qu'ont fait les Graissessac aujourd'hui?
+							JOSPEH DE MAISTRE.
+							Quoi ! Qu'y a-t-il ?
+							BALZAC.
+							Les Graissessac !
+							JOSPEH DE MAISTRE.
+							Voulez-vous me laisser tranquille !
+							BALZAC.
+							[Note : Honoré de Balzac (1799-1851), romancier et dramaturge.]Ah ! Je ne vous reconnaissais pas. Excusez-moi.
+							JOSPEH DE MAISTRE.
+							[Note : Joseph de Maistre (1753-1821), auteur et homme politique contre-révolutionnaire.]Comment se peut-il que vous, un assembleur d'affabulations, qu'on a essayé de faire passer pour un philosophe et pour un historien, vous ayez le courage de vous occuper de ces intrigues monétaires !
+							BALZAC.
+							Hein ?
+							JOSPEH DE MAISTRE.
+							Je ne vous interroge pas, je m'exclame.
+							BALZAC.
+							Vous n'interrogez pas ? Je crois bien ! Vous auriez trop peur qu'on vous répondît. Cela vous étonne que je m'informe des Graissessac, jouissance avril ? Ah ! Mon vieux gentilhomme intolérant, on a changé votre sanglante clef de voûte de l'édifice social. Je l'avais bien prédit : le règne de la pièce de cent sous est arrivé. Voici l'heure des bourreaux d'argent, des jolis bourreaux, des bourreaux souriants ! Et vous voulez que je ne sois pas de cette fête ! Allons donc, hyperboréen émigré ! J'ai toujours eu le cynisme de mes opinions, comme vous.
+							JOSPEH DE MAISTRE.
+							Pas de comparaison, Monsieur !
+							BALZAC.
+							Mettons similitude, si vous l'aimez mieux, comme Gros-René.
+							JOSPEH DE MAISTRE.
+							Vous avez de l'esprit, mais vous êtes un corrupteur.
+							BALZAC, indigné. 
+							De l'esprit ! Pour qui me prenez-vous ? Qu'est-ce que je pourrais faire de l'esprit, cette faculté subalterne ? Ah ! Si je revenais au monde !
+							JOSPEH DE MAISTRE.
+							Que feriez-vous ?
+							BALZAC.
+							Je ferais fortune.
+							JOSPEH DE MAISTRE.
+							Ah oui ! Toujours votre rêve ! 
+							FONTENELLE, dans un coin. 
+							[Note : Bernard Le Bouyer de Fontenelle (1657-1757), académicien, neveu de Corneille, connu pour ses Dialogues des morts et ses Entretiens sur la pluralité des mondes. Il s'illustra aussi dans le travail scientifique. Ses oeuvres théâtrales ne furent pas reconnues.]Sonate, que me veux-tu ?
+							BALZAC.
+							[Note : Balzac était connu pour ses folles et hasardeuses entreprises.]Dans quinze jours je serais millionnaire, dans un mois je créerais une banque, dans un an je culbuterais Rothschild. Il n'y aurait plus que moi au monde, moi, assis sur un sac gigantesque. Je n'ai pas vécu assez. Voyez ce petit Solar, qui venait m'acheter mes romans à Passy, millionnaire ! Voyez ce bourdonnant Lireux, qui a joué Quinola, millionnaire ! Et Jourdan, qui a publié l'Initié ! Et Millaud ! Et les autres ! Millionnaires ! Bi-millionnaires ! Milliardaires ! Je leur ai porté bonheur à tous ; j'ai été le précurseur du mil lion moderne.
+							JOSPEH DE MAISTRE.
+							Je ne vous en fais pas mon compliment.
+							LE CLAIRON, à Sophie Arnould.
+							De quoi ris-tu?
+							SOPHIE ARNOULD.
+							[Note : Sophie Arnould (170-1802), comédienne et cantatrice, ayant beaucoup d'esprit.][Note : Augustine Brohan (1824-1893), actrice de la Comédie Française. Elle tint salon à Paris avec les auteurs en vue, et écrivit une chronique dans le Figaro qui fâché A. Dumas et V. Hugo.]De tous mes bons mots qu'on met aujourd'hui sur le compte d'une personne appelée Augustine Brohan.
+							CHAMPCENETZ, survenant.
+							[Note : Louis René Quentin de Richebourg de Champcenetz (1760-1794), satiriste, chansonnier et journaliste.]Que diriez-vous donc si, comme moi, vous vous relisiez chaque jour dans les courriers de Monsieur d'Ivoy ?
+							CHEVRIER.
+							Ou comme moi, dans ceux de Monsieur Henri d'Audigier.
+							MÉTRA.
+							[Note : Gustave Claudin (1819-1896), novelliste, romancier et journaliste au Figaro.]Ou comme moi, dans ceux de Monsieur Gustave Claudin.
+							STERNE. 
+							Qu'est-ce que c'est que ces courriers-là ?
+							CHAMPCENETZ.
+							Une invention nouvelle... d'il y a plusieurs siècles... un déluge d'encre.
+							BERQUIN.
+							C'est singulier ! Personne ne songe à me plagier, moi.		Il fait des cocottes.
+							FLORIAN. 
+							[Note : Jean-Pierre Claris de Florian  (1755-1794), auteur prolixe : fabuliste, poète, romancier, dramaturge.]Ni moi. Ah ! Si ! Il y a un certain Arsène Houssaye. Le connaissez-vous ?
+							NODIER.
+							[Note : Amelot Houssaye (1634-1706), historien et traducteur. On lui doit une Histoire du gouvernement de Venise qui eut beaucoup de succès.][Note : La Lettre L est celle de l'Histoire dans la nomenclature des cotes de la Bibliothèque nationale.]Amelot de la Houssaye ? Parfaitement. Deuxième galerie, troisième rayon, lettre L, n° 7,764. Faut-il le prier de descendre ?
+							FLORIAN.
+							[Note : Jean-Pierre Claris de Florian (1755-1794), fabuliste, romancier, dramaturge.]Eh non ! Mon cher bibliophile ; nous parlons de nos jeunes confrères.
+							MADEMOISELLE DE SCUDÉRY, au milieu d'un cercle.
+							[Note : Madeleine de Scudery (1607-1701) femme de lettres qui écrivit le roman-fleuve précieux Artamène ou la Grand Cyrus dans lequel figue la Carte du Tendre.]Ainsi, votre pays du Tendre s'appelle maintenant le Pré Catelan, les Concerts de Paris, le Moulin-Rouge, Mabile ? Je donnerais volontiers un exemplaire de Cyrus pour que Pélisson m'y conduisît un beau soir.
+							CAYLUS.
+							[Note : Anne Claude de Caylus (1692-1765), homme de lettres qui cédé sa collection d'objets antiques à la Bibliothèque Nationale. ][Note : Noter que le Chemin de sPorcheorns suivait le tracé actuel de la rue Saint-Lazare à Paris, un quartier et village portait le même nom.]Mes Porcherons, où sont-ils ?
+							EDOUARD OURLIAC.
+							[Note : Édouard Ourliac (1813-1848), journaliste et romancier.][Note : La Closerie des Lilas est un café célèbre de Paris, qui se situe en haut de Boulevard Saint Michel sur le Boulevard Montparnasse.]À la Closerie des Lilas, où les étudiants allument leurs cigarettes avec les feuillets du Code.
+							MADEMOISELLE DE SCUDÉRY.
+							Des cigarettes ! Des cigares ! Quelle abomination !
+							MONSIEUR DE JOUY.
+							[Note : La Chaussée d'Antin est une voie parisienne du 9ème arrondissement.]De mon temps on ne disait pas un cigare, on disait une cigale. Consultez l'Ermite de la Chaussée-d'Antin.
+							EUGÈNE BRIFFAUT.
+							[Note : Eugène Briffaut (1799-1854), écrivain.]Merci !
+							MADEMOISELLE DE SCUDÉRY.
+							[Note : Georges Sand (1804-1876), écrivain célèbre qui produisit dans tous les gens avec beaucoup de succès. Elle eut une vie amoureuse avec les artistes de son temps dont Frédéric Chopin.]C'est comme ce ou cette George Sand dont je lis en ce moment les ouvrages. Se peut-il, en effet, qu'elle fume toute la journée et même en écrivant ?
+							EUGÈNE BRIFFAUT.
+							Rien de plus vrai, Madame, je l'ai beaucoup connue il y a quelques années : elle fait une prodigieuse consommation de tabac caporal ; elle reste continuellement couchée sur des divans à la mode turque, et elle ne saurait tracer une ligne sans s'être coiffée préalablement d'une énorme casquette de loutre ornée d'un pompon de garde national. C'est une femme bien originale, allez !
+							CHOEUR DE RATS.
+							[Note : Édouard Fournier (1819-1880), homme de lettres, historien du XVIIème siècle, dramaturge et bibliophile.]Alerte, mes frères, alerte ! Voici Monsieur Édouard Fournier ; je viens de l'apercevoir se glissant par le soupirail de la cour ! Sauvons-nous ! Sauvons-nous !
+							YOUNG. 
+							Je m'embête.
+
+			LA BIBLIOTHÈQUE EN FONCTIONS
+
+
+
+				
+				I. AVANT L'OUVERTURE.
+				
+				
+
+
+
+
+
+
+
+
+
+
+				
+				II. LA SALLE DE LECTURE - Les employés-phares : Monsieur Combette, Monsieur Chéron, Monsieur Vintre.
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+				III. LE BUREAU CENTRAL - Messieurs Pillon, De Manne, Richard, Baudement, Monsieur Dauriac OU d'Auriac.
+				
+				
+
+
+
+
+
+				
+				IV. LE PARISIEN.
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			VARIÉTÉS DE LECTEURS.
+
+
+
+				
+				KASANGIAN L'ARMÉNIEN.
+				
+				
+
+
+
+
+
+
+
+
+
+
+				
+				[DIVERS LECTEURS].
+				
+				
+
+
+							UN PARTICULIER, à Monsieur Baudement. 
+							Monsieur, voulez-vous me donner les Néréides de Virgile, s'il vous plaît.
+							MONSIEUR BAUDEMENT.
+							Répétez, monsieur.
+
+							LE PARTICULIER.
+							Les Néréides.... de Virgile.
+							MONSIEUR BAUDEMENT.
+							Avec plaisir, Monsieur.		Il prend des notes pour sa collection.
+							UN MONSIEUR SOURIANT, à Monsieur de Manne.
+							Monsieur...
+							MONSIEUR DE MANNE, écrivant une lettre.
+							Adressez-vous à côté.
+							LE MONSIEUR SOURIANT, à Monsieur Richard.
+							Monsieur...
+							MONSIEUR RICHARD.
+							Vous avez demandé quelque chose ?
+							LE MONSIEUR SOURIANT.
+							Non, monsieur, pas encore. Je désire seulement savoir comment je dois m'y prendre pour faire un ouvrage qu'on m'a commandé sur les moyens de conserver le raisin.
+							MONSIEUR RICHARD.
+							Êtes-vous agriculteur ?
+							LE MONSIEUR SOURIANT.
+							Non, monsieur. Mais si vous étiez assez bon pour m'indiquer la marche à suivre.
+							MONSIEUR RICHARD.
+							C'est embarrassant.
+							LE MONSIEUR SOURIANT.
+							Je le sais bien, Monsieur.
+							MONSIEUR RICHARD.
+							Revenez demain ; je ferai faire des recherches.		Kasangian n'y peut plus tenir ; il se coule vers Monsieur Pillon ; il fend la multitude.
+							MONSIEUR PILLON.
+							Vous voyez bien que je suis encombré.
+							KASANGIAN.
+							Comment prononce-t-on le mot armoire ? Bescherelle ne s'explique pas là-dessus.
+							MONSIEUR PILLON.
+							Eh bien ! Armoire, parbleu ! Armoare.
+							KASANGIAN.
+							C'est que, l'autre jour, j'ai entendu une portière dire : ormoire.
+							MONSIEUR PILLON.
+							C'est une faute.
+							KASANGIAN, incrédule.
+							En êtes-vous bien sûr ?
+							MONSIEUR PILLON.
+							Oh ! Laissez-moi. Il faut que je réponde à tout le monde. Je n'y puis suffire. 
+							UN VIEUX MONSIEUR, à Monsieur Baudement.
+							Eh bien ! Monsieur, mon livre n'arrive donc pas ?
+							MONSIEUR BAUDEMENT.
+							Quel livre ?
+							LE VIEUX MONSIEUR.
+							Celui que j'ai demandé. Voilà une heure que j'attends.
+							MONSIEUR BAUDEMENT.
+							Voulez-vous me rappeler le titre de l'ouvrage ?
+							LE VIEUX MONSIEUR, avec agitation.
+							Mais je l'ai écrit sur mon bulletin, Monsieur !
+							MONSIEUR BAUDEMENT.
+							Je n'en doute pas ; pourtant il est utile que vous me le rappeliez.
+							LE VIEUX MONSIEUR.
+							Dame !... Écoutez donc... Je ne m'en souviens plus... depuis le temps ! 
+							UN LECTEUR INSOUCIANT, présentant à Monsieur de Manne un bulletin qu'il vient de remplir.
+							Monsieur...
+							MONSIEUR DE MANNE.
+							Qu'est-ce que vous avez mis là-dessus ?
+							LE LECTEUR INSOUCIANT.
+							Vous voyez : mon adresse, mon nom.
+							MONSIEUR DE MANNE.
+							Oui ; mais vous avez oublié d'indiquer l'ouvrage que vous désirez.
+							LE LECTEUR INSOUCIANT.
+							Oh ! Mon Dieu, le premier venu.
+							MONSIEUR DE MANNE.
+							Comment ! Le premier venu !
+							LE LECTEUR INSOUCIANT.
+							Celui que vous voudrez.
+							MONSIEUR DE MANNE.
+							Dans quel genre ?
+							LE LECTEUR INSOUCIANT.
+							Cela m'est égal ; je n'y tiens pas.
+							MONSIEUR DE MANNE, impatienté.
+							Ni moi non plus, Monsieur ; décidez-vous.
+							LE LECTEUR INSOUCIANT.
+							À votre choix.
+							KASANGIAN.
+							Je suis indécis sur la prononciation du mot : avant-hier. Faut-il dire : avan-hier ?
+							MONSIEUR PILLON.
+							Non.
+							KASANGIAN.
+							Avan-z-hier, alors ?
+							MONSIEUR PILLON.
+							Non.
+							KASANGIAN.
+							Comment faut-il donc dire ?
+							MONSIEUR PILLON, haussant les épaules.
+							Avant-thier.
+							KASANGIAN.
+							C'est singulier ! N'aimeriez-vous pas mieux, comme moi, avan-z-hier ?
+							MONSIEUR PILLON.
+							Circulez, circulez ! Voici la machine qui m'apporte des livres.
+				
+				[LE GROS LIVRE].
+				
+				
+							UN LECTEUR, à un conservateur. 
+							Faites-moi le plaisir de me donner un gros livre.
+							LE CONSERVATEUR.
+							Quel gros livre ?
+							LE LECTEUR, d'un ton affairé.
+							Le plus gros, s'il vous plaît.
+							LE CONSERVATEUR, surpris. 
+							Mais pourquoi faire ?
+							LE LECTEUR.
+							Pour m'asseoir dessus.
+				
+				[AUTRE TRAIT].
+				
+				
+
+
+
+
+
+
+							LE FROTTEUR.
+							Que voulez-vous faire, Monsieur ?
+							LE LECTEUR.
+							Vous le voyez bien... monter au balcon.
+							LE FROTTEUR.
+							Comment ! Comment ! Monter au balcon ! Mais le public ne monte pas au balcon, Monsieur.
+							LE LECTEUR.
+							Je voulais épargner cette peine aux employés, en allant chercher mon livre moi-même.
+							LE FROTTEUR.
+							C'est impossible, Monsieur.
+							LE LECTEUR.
+							Je sais bien où il est, mon livre ; voilà vingt-cinq ans que je viens à la Bibliothèque.
+							LE FROTTEUR.
+							Je ne dis pas non.
+							LE LECTEUR.
+							Je la connais parfaitement, la Bibliothèque ; je la connais mieux que personne, parbleu !
+							LE FROTTEUR.
+							Oui, Monsieur, mais...
+							LE LECTEUR.
+							[Note : Van Praët (1754-1837) fut un bibliothécaire de la Bibliothèque nationale, il tripla la taille des collections imprimées et fonda la Réserve des livres rares.][Note : Les R : Est un grand regroupement d'ouvrages dans les collections d'imprimés ; chaque lettre ou lettrage indique une thématique. Ce cadre de classement a été élaboré par Nicolas Clément (1675-1684).]Mon livre est dans les R, au balcon, salle du Parnasse, un peu à gauche de l'oreille droite du buste de Monsieur Van Praët, en tirant vers le dessus des cercueils des momies égyptiennes.
+							LE FROTTEUR.
+							J'entends bien, Monsieur, mais vous ne pouvez pas aller chercher votre livre. Voyons, laissez cela.
+							LE LECTEUR.
+							Ce serait l'affaire d'un instant.
+							LE FROTTEUR.
+							Laissez cela, vous dis-je !
+							LE LECTEUR, en soupirant. 
+							C'est dommage... 
+							[MONSIEUR DE MANNE].
+							Pourquoi avez-vous mis un B au bas de votre bulletin, Monsieur ?lui demandait Monsieur de Manne.
+							LE LECTEUR.
+							- C'est pour indiquer que ce livre se trouve au balcon. Oh ! Je sais bien où il est, allez ; je le vois d'ici, et si vous vouliez me permettre d'aller le chercher, ce serait l'affaire d'un instant... 
+				
+				[AUTRES LECTEURS].
+				
+				
+
+
+
+
+
+
+
+
+							[PREMIER LECTEUR.]
+							Vous ici !
+							[SECOND LECTEUR].
+							Comme vous voyez.- Et qu'y venez-vous faire ? - Quel hasard ! Y a-t-il longtemps que vous avez vu Lémouchet ?
+							[PREMIER LECTEUR.]
+							Je l'ai vu dimanche ; il est définitivement en traité pour acheter la pharmacie de son frère.
+							[SECOND LECTEUR].
+							Pas possible ! C'est une boulette qu'il va faire... Mais mettez-vous donc là... Monsieur aura la complaisance de se reculer un peu.
+							[PREMIER LECTEUR.]
+							Monsieur, c'est vous.
+				
+				LA RÉSERVE. Monsieur Magnin, Monsieur Ravenel, Monsieur Klein, Koll.
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+				LA SALLE DU PARNASSE - Le Cabinet des Médailles.
+				
+				
+
+
+
+				
+				LA SALLE DES MANUSCRITS. Une correspondance amoureuse.
+				
+				
+
+
+
+
+
+				
+				LES COURS DE LANGUES ORIENTALES. Le Javanais.
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+				UNE SÉANCE DU CONSERVATOIRE.
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							MONSIEUR PAULIN PARIS.
+							Je crois que vous vous enrhumez, de Manne ; vous avez eu tort de vous faire couper les cheveux...
+							MONSIEUR JOMARD.
+							Messieurs, avez-vous vu l'enterrement du prince d'Oude ?
+							MONSIEUR REYNAUD.
+							Ma foi non, et je le regrette beaucoup ; je n'aurais pas été fâché de déchiffrer les versets peints sur le drap mortuaire. Cela fournit toujours l'occasion d'un petit rapport à l'Académie des Inscrip tions et Belles-Lettres.
+							MONSIEUR LENORMANT. 
+							Moi, j'y ai bien pensé ; mais il faisait si froid !
+							MONSIEUR BERGER DE XIVREY.
+							Bah ! Vous êtes trop frileux ; vous voudriez toujours être sur votre four à chaux de Saint-Eloi.
+							MONSIEUR LENORMANT, écarlate de courroux. 
+							Un tombeau, monsieur ! Un tombeau mérovingien ! Je le sou tiens, malgré le corps des ponts et chaussées, malgré tout, malgré...
+							LES CONSERVATEURS.
+							Allons, Lenormant, allons !
+							MONSIEUR JOMARD.
+							Ah ! C'était la cérémonie de l'embaumement de la reine d'Oude qu'il fallait voir ! Toutes les femmes de sa suite étaient déshabillées jusqu'à la ceinture...Les conservateurs s'entre-regardent.Monsieur Haaze rougit.
+							MONSIEUR DE PONGERVILLE, en largeur. 
+							J'ai failli y aller, mais je n'ai pas trouvé de place dans l'omnibus de la rue du Bac.
+							MONSIEUR JOMARD.
+							Vous auriez pu prendre celui des ministères, qui passe par la place de la Concorde, la rue Royale, la rue Saint-Honoré, la rue de la Paix, les boulevards, la rue de la Chaussée d'Antin et enfin la rue de Provence, qu'il parcourt dans toute son étendue pour passer juste au coin de l'hôtel Laffite. 
+							MONSIEUR DE PONGERVILLE, en longueur.
+							C'est vrai.
+							MONSIEUR HAAZE, appuyant solennellement sur les mots.
+							Messieurs, ces omniiibus sont trèèès dangereûûûx par le temps qu'il fait ; on y prend froâd et l'on risssque d'y gagner la grrriiipppe !Il tousse, comme pièce à l'appui ; M. Magnin le salue.
+							MONSIEUR LACABANE.
+							Ah çà ! cette épidémie de grippe est très persistante cette année.
+							MONSIEUR NATALIS DE WAILLY.
+							Cela pourrait bien nous amener un peu de choléra.
+							MONSIEUR JOMARD. 
+							J'ai quelques motifs pour en douter ; il existe en ce moment beaucoup de fièvres typhoïdes, et vous savez, messieurs, que ces deux maladies sont ennemies... mortelles.
+							LES CONSERVATEURS, révoltés.
+							Oh !
+							MONSIEUR LENORMANT.
+							À bas les jeux de mots !
+							MONSIEUR REYNAUD.
+							On m'a parlé d'une tisane fort salutaire : c'est une décoction de dattes, édulcorée avec beaucoup de gomme arabique.
+							MONSIEUR HAAZE.
+							Mettez-vous d'abord la gomme ou les dattttes ?
+							MONSIEUR REYNAUD.
+							Je l'ignore ; mais je le demanderai à ma cuisinière, et je vous le dirai demain.
+							MONSIEUR HAAZE.
+							Vous me ferez plaisiiiir.Ici Combat entre et vient mystérieusement annoncer à Monsieur Pillon que Kasangian est à la porte et désire lui parler. Monsieur Pillon fait un soubresaut et répond à demi-voix quelques paroles énergiques à Combat, qui sort, - en souriant.La séance continue.
+							MONSIEUR DE PONGERVILLE, en longueur. 
+							À propos, messieurs, savez-vous pourquoi il existe une commission qui inspecte en ce moment la Bibliothèque ?
+							MONSIEUR HAAZE, avec inquiétude.
+							Non.
+							MONSIEUR MAGNIN, considérant Monsieur Haaze.
+							Non.
+							MONSIEUR RAVENEL.
+							Je le sais, moi, messieurs ; il n'y a rien qui doive nous troubler. Il s'agit seulement de couvrir en verre la grande cour et le jardin, afin de les convertir en une immense salle de lecture.
+							LES CONSERVATEURS, respirant.
+							Ah ! Très bien.
+							MONSIEUR PILLON.
+							Encore une salle de lecture !
+							MONSIEUR DE MANNE.
+							Si du moins elle était affectée spécialement aux dames.
+							MONSIEUR JOMARD. 
+							Et que l'on vous en confiât la direction, n'est-ce pas, de Manne ? Ah ! Badin ! Badin !Monsieur de Manne fait une grimace de contentement.En ce moment, on s'aperçoit que Monsieur Berger de Xivrey et Monsieur Paulin Paris se disputent vivement la découverte du coeur de Saint-Louis. - M. Léon Lacabane s'interpose, et cherche à pacifier les deux concurrents.
+							LE RAPPORTEUR. 
+							Messieurs, j'ai là une lettre d'un auteur, d'un homme de lettres nommé Saint-Christoly...
+							MONSIEUR HAAZE.
+							Je ne le connais pas.
+							LE RAPPORTEUR.
+							[Note : Le "Théâtre gaillard" est un type d'ouvrages du XVIII et XIXème en plusieurs tomes composé de pièces diverses de différents auteurs qui ont en commun le ton leste et la description de scènes érotiques explicites. On en trouve un exemple sous la cote BnF ENFER-781, ENFER-782 ou ENFER-1067 (...).]Qui s'occupe, prétend-il, d'un travail très approfondi sur la littérature dramatique, et qui demande l'autorisation de consulter le Théâtre gaillard.
+							MONSIEUR DE PONGERVILLE, en largeur, et vivement.
+							Il est en lecture.
+							MONSIEUR DE MANNE, avec curiosité. - 
+							Chez qui !
+							MONSIEUR DE PONGERVILLE, embarrassé, mi-largeur, mi-longueur.
+							Chez une... une de nos dixièmes muses.Ici on entend un bruit sec. - C'est Monsieur Magnin qui se lève, en remuant faiblement le bras droit et la jambe droite. Il fait observer d'une petite voix grêle qu'il est attendu à la fabrique des Petits-Pères, et il demande la clôture, en regardant M. Ravenel d'un air suppliant.
+							MONSIEUR RAVENEL.
+							Messieurs, l'heure avancée me fait prendre en considération la clôture proposée par notre honorable président, Monsieur Magnin. Je mets aux voix la clôture.		Toutes les mains se lèvent.Messieurs, la séance est levée.
+	==================================================

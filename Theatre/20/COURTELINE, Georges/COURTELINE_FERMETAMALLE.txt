@@ -1,0 +1,64 @@
+********************************************************
+	DC.Title                  = FERME TA MALLE ! SAYNÈTE
+	DC.Author                 = COURTELINE, Georges
+	DC.Creator                = FIEVRE, Paul
+	DC.Publisher              = FIEVRE, Paul
+	DC.Subject                = Saynète
+	DC.Subject.Classification = 842
+	DC.Description            = Edition du texte cité en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = 
+	DC.Date.Issued content    = 
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 22/06/2022 à 06:08:47.
+	DC.Coverage               = France
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/documents/COURTELINE_FERMETAMALLE.xml
+	DC.Source                 = https://gallica.bnf.fr/ark:/12148/bpt6k661258
+	DC.Source.cote            = 
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Théâtre Classique, (creative commons CC BY-NC-ND)
+***************************************************************
+
+FERME TA MALLE !
+SAYNÈTE
+1904. Tous droits réservés.
+Georges COURTELINE
+FONTENAY AUX ROSES. Imp. LOUIS BELLEMAND.
+
+
+
+PERSONNAGES.
+LE MARCHAND.
+LE BOUCHER.
+LE JEUNE AVEUGLE.
+LES PASSANTS.
+
+
+Publiée dans le recueil "Théodore cherche des allumettes, illustrations de L Bombled, Albert Guillaume, Berrère et de Sta", Edition de 1904. pp. 71-77.
+
+
+			FERME TA MALLE !
+
+Place de la Bastille. Un marchand de chansons débite sa marchandise au sein d'un auditoire nombreux et attentif. Près de lui, un jeune homme aveugle écrase de ses maigres doigts les touches d'un orgue portatif dont se mêle la plainte navrante au fracas ininterrompu des camions et des omnibus.
+
+
+				
+				
+				
+				
+							LE MARCHAND.
+							Demandez ! Le répertoire moderne ! Les récents succès du café-concert ! L'Hirondelle de France, Mon coeur ouvre ton aile, Les yeux noirs de mon Andalouse, oh ! La la ! C'est rien dégoûtant, Le Forgeron de la paix, Baudin, La Mort du sergent Bobillot, Ça m'répugne de voir ces choses-là, Descends donc de ton cheval, Salut au printemps, Mon Plumet de dimanche ! Qu'en veut ? Qu'en demande ? Qu'en désire ? On les vend deux sous !		Nombreuses demandes.Les yeux de mon Andalouse ? Moins noirs que les vôtres, mon petit chat. Deux sous, s'il vous plaît. Merci bien ! Dieu bénisse la main qui m'étrenne. Le commerce reprend, y a du bon !... Et maintenant, attention ! Nous allons chanter : Dors en paix ! La dernière création de Mademoiselle Yvette Guilbert, au concert de l'Eldorado. Musique, Monsieur Honoré ! Il monte sur un petit banc. L'aveugle touche l'orgue qui se répand en gémissements mélancoliques.		PREMIER COUPLET.		Il chante.Dans son berceau de fine mousseline,Un jeune enfant d'environ quelques mois,Sous le regard de sa mère mutine,Dormait ainsi qu'il faisait quelquefois.Il souriait car dans un rêve étrange
+									Il distinguait un drapeau déployé !...« Ah ! dit la mère à son cher petit ange... »		À un garçon boucher qui demeure insensible aux charmes de la poésie et s'obstine à répéter gravement : « Ferme donc ta malle ! Ferme donc ta malle ! »Tâche à te payer mon syphon, toi ! J'vas aller te peser ton veau, tu vas voir si ça va traîner, pèce de proparien !... Barbouillé... avec ta saleté de barbaque ! Peux pas ficher la paix aux personnes, c'cochon-là ?		Geste écoeuré, puisMusique, monsieur Honoré.		Il reprend.Dors mon enfant, dors sans te réveiller.		RefrainDors en paix, mon doux être,Sous mon oeil ingénu,
+									Bientôt... demain peut-être,Le moment du réveil pour tous sera venu.On la vend deux sous ! Dors en paix ! paroles et musique de Mouillepied ; le dernier grand succès de Mademoiselle Yvette Guilbert. Voilà, Mademoiselle !... avec mon coeur. Nom de Dieu, les gosses, voulez-vous reculer un peu ? Dors en paix ! Gendarme ? Voilà c'est deux sous, mon ami. Qui en veut ? Qui appelle ? Ne parlez pas tous à la fois !...		Il remonte sur son petit banc.		Reprise de gémissements lugubres sous les maigres doigts de l'organiste.		DEUXIÈME COUPLET		Il chante.Mais le bébé dont un rêve moroseSemblait troubler le sommeil enfantinPâlit soudain et sa lèvre de rose
+									Dit : « C'est par eux que je suis orphelinVoilà vingt ans qu'ils ont tué mon père :Je veux venger son cadavre béni. »En se perchant..		Il se reprend.Pardon !...En se penchant sur le berceau, la mère,
+									Les yeux en pleurs à l'enfant répondit...		Au boucher qui insiste et répète sans se lasser : « Ferme ta malle ! Ferme ta malle ! »Ferme-la donc toi-même, ta malle ! Tu vois donc pas que ça sent le poisson ? Boug' de rien du tout ! Traîne ta viande ! À la Poubelle ! À la Poubelle !...
+							LE BOUCHER.
+							Ferme ta malle !
+							LE MARCHAND.
+							Tu répètes toujours la même chose. - Ah ! Et puis tu me fais déballer. - Au refrain, monsieur Honoré.		Il chante.Dors en paix, mon doux être.Sous mon oeil ingénu,Bientôt... demain peut-être,Le moment du réveil pour tous sera venu.
+											TROISIÈME COUPLET.		Il chante.Trois mois après au bord de la couchetteOù le bébé dormait, dormait toujours,La pauvre mère, affligée et muette,Cédait au poids de ses destins trop courts.Et tout à coup, de sa lèvre mourante
+									Baisant le front qui rugit.		Il reprend.Pardon !...qui rougit de plaisir.		Au boucher qui ne se décourage pas et répète « Ferme donc ta malle » avec un entêtement exaspérant.Veux-tu parier, à présent, que je te fous mon pied dans le cul ? Hein ! Veux-tu parier avec moi ?		Marche menaçante vers le boucher, qui bat, intimidé, une retraite hâtive. Accalmie brusque.Musique ! Monsieur Honoré !		Il chante.Dors en paix mon doux être,Sous mon oeil qui s'éteint,Dors en paix, car peut-êtreLe moment du réveil sera demain matin.
+									On la vend deux sous !
+	==================================================

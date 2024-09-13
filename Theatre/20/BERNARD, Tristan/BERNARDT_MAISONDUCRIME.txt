@@ -1,0 +1,94 @@
+********************************************************
+	DC.Title                  = LA MAISON DU CRIME, COMÉDIE.
+	DC.Author                 = BERNARD, Tristan
+	DC.Creator                = FIEVRE, Paul
+	DC.Publisher              = FIEVRE, Paul
+	DC.Subject                = Comédie
+	DC.Subject.Classification = 842
+	DC.Description            = Edition du texte cité en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = 
+	DC.Date.Issued content    = 
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 31/10/2021 à 21:35:56.
+	DC.Coverage               = France
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/documents/BERNARDT_MAISONDUCRIME.xml
+	DC.Source                 = https://gallica.bnf.fr/ark:/12148/bpt6k98193300/f9.image
+	DC.Source.cote            = 
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Théâtre Classique, (creative commons CC BY-NC-ND)
+***************************************************************
+
+LA MAISON DU CRIME
+COMÉDIE.
+1936. Tous droits de reproduction, de traduction et de représentation réservés pour tous pays, y compris la Suède et la Norvège.
+de TRISTAN BERNARD
+SAINT DENIS, IMP. DARDAILLON et DAGNIAUX, 47, Boulevard Jules-Guesde.
+
+Diffusion radiophonique le 22 mai 1930.
+
+PERSONNAGES.
+LE SERRURIER, M. SAULIEU
+WILLIAM, M. GEORGES COLIN
+LE SECRÉTAIRE, M. BALDY
+
+
+Extrait de "Sketches pour le scène et la radio (en deux volumes) - Premier volume ..." Librairie Théâtrale, L. Billaudot, 1936. pp. 37-40
+
+
+			LA MAISON DU CRIME
+
+
+
+				
+				
+				
+				On entend un outil qui fourrage dans la serrure.
+
+							LE SERRURIER.
+							Il doit y avoir un bouton électrique par là, Monsieur le détective.
+							WILLIAM.
+							Je vais le trouver. J'ai ma lampe de poche.
+							LE SERRURIER.
+							Maintenant, Monsieur le détective, et vous monsieur son secrétaire, vous n'avez plus besoin de moi ?
+							WILLIAM, sèchement.
+							Non. Il n'y aura pas d'autres serrures à ouvrir, car cette pièce suffira pour mes investigations, et les observations que j'y ferai me suffiront pour trouver le coupable. Nous sommes ici dans le bureau de la victime. C'est là certainement que le crime a été commis.
+							LE SERRURIER.
+							Je rentre à mon atelier où j'ai un travail de nuit, c'est à côté de la gare et à deux pas du commissariat.
+							WILLIAM.
+							Il est minuit moins le quart... Vous pouvez vous retirer. Ne faites pas de bruit en allant du perron jusqu'à la grille. Adalbert ! 
+							LE SECRÉTAIRE.
+							Monsieur le Commissaire ?
+							WILLIAM.
+							Le Commissaire n'est pas là, mais nous allons commencer notre enquête. Asseyez-vous là ; s'il y a besoin de prendre des notes, ce que je ne crois pas, je vous les dicterai.
+							LE SECRÉTAIRE.
+							Oui, Monsieur le détective.
+							WILLIAM.
+							Je vais penser tout haut. Écoutez ou n'écoutez pas.
+							LE SECRÉTAIRE.
+							J'écoute, Monsieur le détective, j'écoute.
+							WILLIAM.
+							Peu importe. Le corps de Monsieur Turlupin, qui habitait ici au 22 de la rue du Château, a été retrouvé dans la rivière, il avait été étranglé. On était en présence d'un crime, c'était très facile à voir et jusqu'à ce moment on n'avait pas besoin de moi. Sur la demande expresse de la famille, le commissaire a eu recours à mes bons offices. Le crime a été commis dans cette chambre. Monsieur Turlupin avait reçu il y a quatre jours, dit-on...		Insistant.Dit-on !... Une seule visite, celle d'un vieillard de quatre-vingt-cinq ans qui s'occupe d'affaires avec lui. Ce vieillard, soi-disant, après cette visite, n'était pas revenu ces jours-ci.
+							LE SECRÉTAIRE.
+							Que faites-vous, Monsieur le détective ? Vous vous mettez à quatre pattes sur le sol ?
+							WILLIAM.
+							C'est pour mieux le flairer, mon ami. C'est bien ce que je croyais, une odeur de caoutchouc brûlé. Le vieillard suspect, suspect pour moi, car les autres n'ont rien deviné, habite à côté d'une usine de caoutchouc. Les pièces mises au rebut sont brûlées dans la cour ; il émane de ce bûcher une odeur caractéristique et tenace qui s'attache aux vêtements des voisins et qu'ils répandent dans les endroits où ils passent. Mais cette odeur disparaît au bout d'un jour. Si elle subsiste, c'est que le vieillard est revenu l'autre nuit, à l'heure où le crime a été commis.		Brusquement.Qu'est-ce que c'est que ce porte-plume ? Cette plume est noircie par une encre sèche, mais, en l'examinant de près, je constate que cette encre n'est pas complètement sèche et qu'on s'est servi de cette plume il y a moins de vingt-quatre heures.		Avec autorité. La victime s'est installée là. Elle a écrit un papier, à la suggestion de l'assassin. Puis elle a reposé le porte-plume sur l'encrier à l'endroit où nous l'avons trouvé. L'assassin s'est approché d'elle par derrière et, avant de l'étrangler, l'a frappée avec une matraque. Ce choc aurait fatalement tué Monsieur Turlupin sur le coup. Le fait qu'il ne l'ait pas tué prouve que l'instrument était dans des mains débiles, celles d'un vieillard par exemple. D'autre part, il faut noter que tout est admirablement en ordre dans cette chambre. Nous avons affaire non à un professeur du crime, mais à un homme méthodique, exact dans ses habitudes et qui, lorsqu'il commet un crime, l'organise avec la même précision que ses affaires ordinaires. Qu'est-ce que c'est que ce tableau, sur le mur ? La ligne de poussière est inégale, ce tableau qui n'était pas droit a été remis droit depuis peu de temps. C'est encore l'assassin qui, dans sa manie d'ordre, a replacé le tableau comme il était avant. Nous avons affaire à un maniaque, et c'est ce travers d'esprit qui va le livrer à la justice. Car il reviendra ici, vous entendez ? Il reviendra. Il reviendra ici, parce qu'en repassant dans son esprit toutes les circonstances du crime il aura peur d'avoir oublié quelque chose, d'avoir laissé traîner un indice révélateur. Et il ne pourra pas s'empêcher de revenir. Il ne sait pas encore que le cadavre de Monsieur Turlupin a été retrouvé et que l'on a donné l'éveil sur son crime. Alors, revenir bientôt. il va revenir bientôt.		D'un ton de triomphe.Écoutez !
+							LE SECRÉTAIRE.
+							Qu'y a-t-il ?
+							WILLIAM.
+							On a marché dans le jardin. Éteignons la lumière. Car, s'il voyait de la lumière, il n'entrerait pas dans la chambre et mettons-nous de chaque côté de la porte. Qu'est-ce que c'est ?
+							LE SECRÉTAIRE.
+							C'est le petit serrurier.
+							WILLIAM.
+							Allumez !...
+							LE SERRURIER.
+							C'est moi, Monsieur le détective, le serrurier.
+							WILLIAM, rudement.
+							Qu'est-ce que vous voulez ?
+							LE SERRURIER.
+							C'est le commissaire qui m'a fait demander et qui m'a dit d'aller vous prévenir. Ça n'est pas ici la maison du crime. Nous sommes au 22 et c'est au 122 de la rue du Château qu'habitait Monsieur Turlupin.
+							WILLIAM.
+							Qu'est-ce que c'est que cette histoire-là ? Allons, venez, imbécile !		Avec rage.Allons-nous-en de cette turne !
+	==================================================
